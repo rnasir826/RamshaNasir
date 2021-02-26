@@ -10,9 +10,10 @@
   </br>
   <a href="https://www.linkedin.com/in/ramshanasir14/" target="_blank"><samp>linkedin</samp></a>
   </br>
-  <a href="https://portfolio-n87yhucqy.vercel.app/" target="_blank"><samp>portfolio</samp></a>
+  <a href="https://portfolio-n87yhucqy.vercel.app/" target="_blank"><samp>portfolio</samp>
+  </a>
   </div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5gdBjXzNsfkStZwJQ0XYO4vcO3VOlvlJOg&usqp=CAU" width="300px">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5gdBjXzNsfkStZwJQ0XYO4vcO3VOlvlJOg&usqp=CAU" width="200px">
   </br>
   </br>
   <samp>
