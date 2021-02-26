@@ -14,7 +14,7 @@
   </a>
   </br>
   </div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5gdBjXzNsfkStZwJQ0XYO4vcO3VOlvlJOg&usqp=CAU" width="200px">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5gdBjXzNsfkStZwJQ0XYO4vcO3VOlvlJOg&usqp=CAU" width="500px">
   </br>
   </br>
   <samp>
