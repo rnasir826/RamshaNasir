@@ -5,7 +5,10 @@
     Hi, I'm Ramsha 👋
     </br>
     I'm a full-stack web developer 👩‍💻
-    <br/>
+    </br>
+    I'm passionate about learning new ways to make life easier for myself and everyone around me.
+    </br>
+    If I wasn't a developer, I would be a personal trainer 🏋️‍♀️
   </samp>
   </br>
   <a href="https://www.linkedin.com/in/ramshanasir14/" target="_blank"><samp>linkedin</samp></a>
